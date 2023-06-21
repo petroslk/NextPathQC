@@ -4,13 +4,15 @@ This small nextflow pipeline is intended to combine tools, provide an easy conta
 
 The pipeline performs the following steps:
 
-First Quality Control using HistoQC
+First Quality Control using [HistoQC](https://github.com/choosehappy/HistoQC)
 
-Blur detection using HistoBlur
+Blur detection using [HistoBlur](https://github.com/choosehappy/HistoBlur)
 
 Returns a directory with all binary masks without artefacts and two tsv files, one containing the blur metrics for each slide and one containing the HistoQC metrics
 
 The binary masks can be used in downstream analysis to exclude regions with artefacts. The tsv files can be used to identify problematic slides.
+
+We recommend you read into the two tools individually to understand their use
 
 # Requirement
 
