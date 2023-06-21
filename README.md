@@ -69,7 +69,7 @@ For other files the sample sheet will look something like this:
 test_svs,       H&E,       basename.svs,       /path/to/svs/basename.svs,        /path/to/svs/
 ```
 
-We recommend training a HistoBlur model for your specific H&E type by following the tutorial available [here](histoblur.com)
+We recommend training a HistoBlur model for your specific H&E type by following the tutorial available [here](https://github.com/choosehappy/HistoBlur)
 
 For testing purposes, a HistoBlur model has also been provided in the assests subdirectory of this pipeline
 
