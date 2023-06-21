@@ -1,0 +1,3 @@
+slide_name,stain,basename,filename,filedir
+test1,H&E,1.mrxs,/media/localadmin/DATA/histoQC_slide_bug_sabina/wsi-share/1.mrxs,/media/localadmin/DATA/histoQC_slide_bug_sabina/wsi-share/1/
+test2,H&E,file1044.mrxs,/media/localadmin/Elements/HistoBlur_files_02/file1044.mrxs,/media/localadmin/Elements/HistoBlur_files_02/file1044/
